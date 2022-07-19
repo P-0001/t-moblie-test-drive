@@ -9,6 +9,10 @@ Auto J1gging
 yarn install && yarn start
 ```
 
+```
+Website: https://www.t-mobile.com/offers/free-trial
+```
+
 ### Note
 This Is No Longer Fully Working...
 Does Not Ship
